@@ -1,0 +1,2 @@
+net.dimba.ext.DaoImplV2
+net.dimba.metier.MetierImpl
