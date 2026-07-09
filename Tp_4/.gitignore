@@ -1,0 +1,20 @@
+# Angular / Node
+Tp_4/frontend/node_modules/
+Tp_4/frontend/dist/
+Tp_4/frontend/.angular/
+Tp_4/frontend/npm-debug.log
+Tp_4/frontend/.env
+
+# Spring Boot / Maven
+Tp_4/Backend_Angular/target/
+Tp_4/Backend_Angular/.mvn/
+Tp_4/Backend_Angular/*.iml
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
